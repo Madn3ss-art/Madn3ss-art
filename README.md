@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Chilean software enthusiast, always learning, improving, and developing real-world solutions</h3>
 
-- 🔭 I’m currently studying at the Technological University of Chile, INACAP, where I will first earn my degree as a Software Analyst | Full Stack Developer. After that, I plan to continue in the academic pathway to achieve the full Software Engineering degree — and even beyond that, I aim to keep specializing and growing as a professional in the software world.
+- 🔭 I’m currently studying at the Technological University of Chile, INACAP, where I will first earn my degree as a Software Analyst | Full Stack Developer. After that, I plan to continue in the academic pathway to achieve the full Software Engineering degree and even beyond that, I aim to keep specializing and growing as a professional in the software world.
 
 - 👯 I’m looking to collaborate on **full-stack projects.**
 
