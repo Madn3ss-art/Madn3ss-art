@@ -17,6 +17,12 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouhart/)
 
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Madn3ss-art&style=flat-square&color=blueviolet)
+
+</div>
+
   
 </div>
 
@@ -69,5 +75,7 @@
   </p>
 
 </div>
+
+
 
 
